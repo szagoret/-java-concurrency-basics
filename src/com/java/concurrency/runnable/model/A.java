@@ -1,4 +1,4 @@
-package com.java.concurrency.model;
+package com.java.concurrency.runnable.model;
 
 /**
  * Created by szagoret on 11.07.2017.

@@ -1,6 +1,6 @@
-package com.java.concurrency;
+package com.java.concurrency.runnable;
 
-import com.java.concurrency.model.A;
+import com.java.concurrency.runnable.model.A;
 
 /**
  * Created by szagoret on 11.07.2017.

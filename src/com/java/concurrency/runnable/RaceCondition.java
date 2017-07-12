@@ -1,6 +1,6 @@
-package com.java.concurrency;
+package com.java.concurrency.runnable;
 
-import com.java.concurrency.model.LongWrapper;
+import com.java.concurrency.runnable.model.LongWrapper;
 
 /**
  * Created by szagoret on 11.07.2017.
