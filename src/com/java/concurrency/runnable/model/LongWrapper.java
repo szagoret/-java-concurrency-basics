@@ -14,11 +14,9 @@ public class LongWrapper {
     }
 
     public long getValue() {
-        return l;
-    }
-
-    public void setValue(long l) {
-        this.l = l;
+        synchronized (object) {
+            return l;
+        }
     }
 
     public void incrementValue() {
